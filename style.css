@@ -1,0 +1,28 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+body{
+    background-color: rgba(151, 191, 250, 0.466) !important;
+}
+.h1{
+    background-color: white;
+    font-size: 100px !important;
+}
+.Application{
+    background-color:rgb(60, 74, 101) !important;
+}
+.inpu{
+    width: 20px !important;
+}
+.form-control{
+    background: transparent !important;
+    border: 2px solid black !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    outline: none !important;
+}
+.checkbox{
+    width: 20px !important;
+}
